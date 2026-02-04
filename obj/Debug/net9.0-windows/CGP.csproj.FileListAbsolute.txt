@@ -1,0 +1,14 @@
+C:\Users\Viktor\RiderProjects\Week2\CGP\bin\Debug\net9.0-windows\CGP.exe
+C:\Users\Viktor\RiderProjects\Week2\CGP\bin\Debug\net9.0-windows\CGP.deps.json
+C:\Users\Viktor\RiderProjects\Week2\CGP\bin\Debug\net9.0-windows\CGP.runtimeconfig.json
+C:\Users\Viktor\RiderProjects\Week2\CGP\bin\Debug\net9.0-windows\CGP.dll
+C:\Users\Viktor\RiderProjects\Week2\CGP\bin\Debug\net9.0-windows\CGP.pdb
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.AssemblyInfoInputs.cache
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.AssemblyInfo.cs
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.dll
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\refint\CGP.dll
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.pdb
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\CGP.genruntimeconfig.cache
+C:\Users\Viktor\RiderProjects\Week2\CGP\obj\Debug\net9.0-windows\ref\CGP.dll
